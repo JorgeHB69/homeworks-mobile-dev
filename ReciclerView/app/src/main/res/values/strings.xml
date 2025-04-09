@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ReciclerView</string>
+    <string name="error_save_person">Error: No se pudo guardar la persona</string>
+    <string name="success_save">Guardado correctamente</string>
+    <string name="message_empty">No hay elementos disponibles. \nInserta algunos con el boton de \"+\"</string>
+</resources>
